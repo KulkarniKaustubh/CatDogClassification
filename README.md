@@ -6,40 +6,41 @@ Training set of 2000 images, 1000 images of cats and dogs each.
 
 ## Accuracies
 
-### 100 epochs
+***100 epochs***
 
-**With Augmentation**
+>With Augmentation
 
 Gives a training accuracy of 89% and a validation accuracy of 87.1%
 ---
 <p float="left">
-    <img src="models/100epochs/model-2-acc-aug.png" width="50" height="50">
-    <img src="models/100epochs/model-2-loss-aug.png" width="50" height="50">
-    <img src="models/100epochs/model-2-val-acc-aug.png" width="50" height="50">
-    <img src="models/100epochs/model-2-val-loss-aug.png" width="50" height="50">
+    <img src="models/100epochs/model-2-acc-aug.png" width="150" height="150">
+    <img src="models/100epochs/model-2-loss-aug.png" width="150" height="150">
+    <img src="models/100epochs/model-2-val-acc-aug.png" width="150" height="150">
+    <img src="models/100epochs/model-2-val-loss-aug.png" width="150" height="150">
 </p>
 ---
 
-**Without Augmentation**
+>Without Augmentation
 
 Gives a training accuracy of 99% and validation accuracy of 76%
 ---
 <p float="left">
-    <img src="models/100epochs/model-2-acc-noaug.png" width="50" height="50">
-    <img src="models/100epochs/model-2-loss-noaug.png" width="50" height="50">
+    <img src="models/100epochs/model-2-acc-noaug.png" width="150" height="150">
+    <img src="models/100epochs/model-2-loss-noaug.png" width="150" height="150">
 </p>
 ---
 
-### 50 epochs
-**Without Augmentation**<br>
+**50 epochs**
+
+>Without Augmentation
 
 Gives a training accuracy of 85% and validation accuracy of 84%
 ---
 <p float="left">
-    <img src="models/50epochs/model-2-acc.png" width="50" height="50">
-    <img src="models/50epochs/model-2-loss.png" width="50" height="50">
-    <img src="models/50epochs/model-2-val-acc.png" width="50" height="50">
-    <img src="models/50epochs/model-2-val-loss.png" width="50" height="50">
+    <img src="models/50epochs/model-2-acc.png" width="150" height="150">
+    <img src="models/50epochs/model-2-loss.png" width="150" height="150">
+    <img src="models/50epochs/model-2-val-acc.png" width="150" height="150">
+    <img src="models/50epochs/model-2-val-loss.png" width="150" height="150">
 </p>
 ---
 
