@@ -17,7 +17,7 @@ Cats_vs_Dogs_model2.ipynb
 
 ## Visualizations
 
-<img src="models/model-2-acc.png">
-<img src="models/model-2-loss.png">
-<img src="models/model-2-val-acc.png">
-<img src="models/model-2-val-loss.png">
+<img src="models/50epochs/model-2-acc.png">
+<img src="models/50epochs/model-2-loss.png">
+<img src="models/50epochs/model-2-val-acc.png">
+<img src="models/50epochs/model-2-val-loss.png">
