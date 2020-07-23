@@ -48,8 +48,4 @@ Training set of 2000 images, 1000 images of cats and dogs each.
 
 ## Code
 
-Cats_vs_Dogs_model2.ipynb
-
----
-
-## Visualizations
+Cats_vs_Dogs_model2.ipynb (50 epochs)
